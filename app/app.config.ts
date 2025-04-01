@@ -6,7 +6,7 @@ export default defineAppConfig({
   profile: {
     name: 'Hugo Richard',
     job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
+    email: 'info@taedemeijer.nl',
     phone: '(+33) 6 21 56 22 18',
     picture: 'https://avatars.githubusercontent.com/u/78475736?v=4',
   },
