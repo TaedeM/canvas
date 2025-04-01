@@ -28,6 +28,21 @@ const stack = await queryCollection('stack').first()
             name="intro"
             mdc-unwrap="p"
           />
+          <br>
+          <slot
+            name="intro2"
+            mdc-unwrap="p"
+          />
+          <br>
+          <slot
+            name="intro3"
+            mdc-unwrap="p"
+          />
+          <br>
+          <slot
+            name="intro4"
+            mdc-unwrap="p"
+          />
         </div>
         <AboutSignature class="absolute -bottom-24 right-0 hidden w-40 sm:block" />
         <AboutSignature class="black absolute -bottom-24 -right-2 w-32 sm:hidden" />
