@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "name": "Python",
+      "link": "https://www.python.org/",
+      "icon": "custom:python"
+    },
+    {
       "name": "Nuxt",
       "link": "https://nuxt.com/",
       "icon": "custom:nuxt"
@@ -14,6 +19,21 @@
       "name": "TailwindCSS",
       "link": "https://tailwindcss.com/",
       "icon": "custom:tailwind"
+    },
+    {
+      "name": "Typescript",
+      "link": "https://www.typescriptlang.org/",
+      "icon": "custom:typescript"
+    },
+    {
+      "name": "VS Code",
+      "link": "https://code.visualstudio.com/",
+      "icon": "custom:vscode"
+    },
+    {
+      "name": "ChatGPT",
+      "link": "https://chat.openai.com/",
+      "icon": "custom:openai"
     },
     {
       "name": "Arc",
