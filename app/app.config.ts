@@ -4,10 +4,10 @@ export default defineAppConfig({
     available: false,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
+    name: 'Taede Meijer',
+    job: 'Software Engineer',
     email: 'info@taedemeijer.nl',
-    phone: '(+33) 6 21 56 22 18',
+    phone: 'bel me niet',
     picture: 'https://avatars.githubusercontent.com/u/78475736?v=4',
   },
   socials: {
@@ -18,9 +18,9 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/taedemeijer',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
+    title: 'Taede Meijer portfolio website',
     description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    url: 'taede-m-portfolio.nuxt.space',
   },
   ui: {
     colors: {
