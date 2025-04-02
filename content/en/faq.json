@@ -53,6 +53,18 @@
         {
           "label": "Logic programming",
           "content": "Fun fact! Prolog played a crucial role in the International Space Station's spoken dialogue system, Clarissa, powering its dialogue management and semantic analysis to help astronauts navigate procedures hands-free in microgravity! The course emphasizes declarative programming, where instead of telling the computer what to do, we described a set of facts and rules from which the computer can derive new conclusions. Gained skills in basic terminology, data structures, unification, recursion and backtracking. "
+        },
+        {
+          "label": "Computational Grammar",
+          "content": "The course covers parsing techniques in Prolog, enabling students to build and evaluate parsers for context-free grammars (CFGs) and definite clause grammars (DCGs). Additionally, students will explore treebanks—structured linguistic datasets—understanding how they are created and used in NLP. The course combines linguistic and computational perspectives, addressing challenges like agreement and verb subcategorization within these grammar formalisms."
+        },
+        {
+          "label": "Social Media",
+          "content": "This course explores how social media platforms influence human communication, shaping informal, educational, and professional interactions. Students will learn to critically evaluate empirical claims about social media and analyze communication using current theories of social interaction and automated data analysis. Key topics include community formation, social network structures, information propagation, anonymity, trust, self-presentation, and emerging linguistic conventions. The course combines quantitative and qualitative approaches, introducing language technologies for automated social media analysis and examining how social science insights can inform social media design and evaluation."
+        },
+        {
+          "label": "Statistics",
+          "content": "This course covers **descriptive, inferential, and multivariable statistics**, including **t-tests, chi-square, ANOVA, regression models, and non-parametric tests**. Students will analyze data, evaluate scientific literature, and report results correctly using R."
         }
       ]
     },
@@ -60,12 +72,20 @@
       "title": "Third year",
       "questions": [
         {
-          "label": "What do you enjoy most about this work?",
-          "content": "I love learning new things and being able to create just about anything from scratch, creating beautiful things that people will use and appreciate."
+          "label": "Machine Learning Project",
+          "content": "This course explores **machine learning for text and image classification** through a hands-on group project tackling a real-world problem. Students will learn core techniques for **text classification, clustering, and image recognition**, as well as cutting-edge approaches in the field. They will also develop skills to **analyze, compare, and critically evaluate academic literature**, presenting their findings both orally and in writing."
         },
         {
-          "label": "Hobbies outside of work?",
-          "content": "I love what I do, so I usually spend a lot of time working on personal projects, photography, etc. I'm also a big sports fan. I often go to the gym and I recently started climbing!"
+          "label": "Machine Translation",
+          "content": "This course introduces **machine translation (MT)**, focusing on the evolution from **rule-based and statistical methods** to modern **neural machine translation (NMT)**. Students will learn about key **NMT architectures** like **recurrent models with attention** and the **Transformer**, and gain hands-on experience using frameworks like **fairseq**. The course also covers **evaluation metrics** for MT systems, their societal impact, and prepares students to critically present and discuss MT research."
+        },
+        {
+          "label": "Ethical Aspects in Natural Language Processing",
+          "content": "This course addresses the **ethical challenges in language technology**, focusing on **bias, data privacy**, and the **implications of NLP research**. Students will learn to identify and address ethical issues both as developers and users, exploring topics like **model interpretability, debiasing**, and the **responsible use** of technology. The course also covers **sociodemographic factors** in language, the **dangers of third-party misuse**, and the **state-of-the-art ethical discussions** in the NLP community. Students will be equipped to reflect on and report ethical considerations in their work."
+        },
+        {
+          "label": "Language Technology",
+          "content": "This course explores practical applications of **language technology**, focusing on areas like **question-answering systems**, **syntactic analysis**, and **knowledge representation**. Students will learn to integrate **automatic parsers** into question-answer systems and work with **Linked Open Data (RDF)** and **SPARQL** for data querying. The course includes hands-on projects and implementations, covering various topics that may change each year, such as **spell correction, language-to-speech**, and **automatic language classification**."
         }
       ]
     }
