@@ -4,37 +4,37 @@
         <loc>https://canvas.hrcd.fr/</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/about</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/about" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/about" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/about" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/about" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/contact</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/contact" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/contact" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/contact" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/contact" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/works</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/works" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/works" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/works" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/works" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/writing</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/writing" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/writing" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/writing" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/writing" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/__nuxt_content/articles_en/sql_dump</loc>
@@ -42,9 +42,9 @@
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/articles_en/sql_dump" hreflang="en-US" />
     </url>
     <url>
-        <loc>https://canvas.hrcd.fr/__nuxt_content/articles_fr/sql_dump</loc>
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/articles_fr/sql_dump" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/articles_fr/sql_dump" hreflang="en-US" />
+        <loc>https://canvas.hrcd.fr/__nuxt_content/articles_nl/sql_dump</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/articles_nl/sql_dump" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/articles_nl/sql_dump" hreflang="en-US" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/__nuxt_content/content_en/sql_dump</loc>
@@ -52,9 +52,9 @@
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/content_en/sql_dump" hreflang="en-US" />
     </url>
     <url>
-        <loc>https://canvas.hrcd.fr/__nuxt_content/content_fr/sql_dump</loc>
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/content_fr/sql_dump" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/content_fr/sql_dump" hreflang="en-US" />
+        <loc>https://canvas.hrcd.fr/__nuxt_content/content_nl/sql_dump</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/content_nl/sql_dump" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/content_nl/sql_dump" hreflang="en-US" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/__nuxt_content/faq_en/sql_dump</loc>
@@ -62,9 +62,9 @@
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/faq_en/sql_dump" hreflang="en-US" />
     </url>
     <url>
-        <loc>https://canvas.hrcd.fr/__nuxt_content/faq_fr/sql_dump</loc>
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/faq_fr/sql_dump" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/faq_fr/sql_dump" hreflang="en-US" />
+        <loc>https://canvas.hrcd.fr/__nuxt_content/faq_nl/sql_dump</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/faq_nl/sql_dump" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/faq_nl/sql_dump" hreflang="en-US" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/__nuxt_content/projects_en/sql_dump</loc>
@@ -72,9 +72,9 @@
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/projects_en/sql_dump" hreflang="en-US" />
     </url>
     <url>
-        <loc>https://canvas.hrcd.fr/__nuxt_content/projects_fr/sql_dump</loc>
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/projects_fr/sql_dump" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/projects_fr/sql_dump" hreflang="en-US" />
+        <loc>https://canvas.hrcd.fr/__nuxt_content/projects_nl/sql_dump</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/projects_nl/sql_dump" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/__nuxt_content/projects_nl/sql_dump" hreflang="en-US" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/__nuxt_content/stack/sql_dump</loc>
@@ -85,19 +85,19 @@
         <loc>https://canvas.hrcd.fr/en/articles/5-amazing-raycast-nuxt-snippets</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/5-amazing-raycast-nuxt-snippets" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/5-amazing-raycast-nuxt-snippets" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/articles/5-amazing-raycast-nuxt-snippets" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/articles/5-amazing-raycast-nuxt-snippets" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/articles/launch-your-portfolio</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/launch-your-portfolio" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/launch-your-portfolio" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/articles/launch-your-portfolio" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/articles/launch-your-portfolio" hreflang="nl-NL" />
     </url>
     <url>
         <loc>https://canvas.hrcd.fr/en/articles/not-an-impostor</loc>
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/not-an-impostor" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/en/articles/not-an-impostor" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/fr/articles/not-an-impostor" hreflang="fr-FR" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/nl/articles/not-an-impostor" hreflang="nl-NL" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-04-02T17:20:53.566Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-04-02T21:13:29.467Z -->
