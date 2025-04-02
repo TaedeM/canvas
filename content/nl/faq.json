@@ -1,0 +1,93 @@
+{
+  "title": "Information Science",
+  "subtitle": "A quick overview of important courses from my bachelor",
+  "faqQuestions": [
+    {
+      "title": "First year",
+      "questions": [
+        {
+          "label": "Web Programming",
+          "content": "Developed interactive websites using PHP, JavaScript, HTML, and CSS. It covered jQuery, AJAX, JSON, and templating for efficient web development. Also worked with virtual Apache servers, FTP, and software development tools. Through weekly assignments and a group project, we applied theoretical knowledge to real-world problems. The course emphasized collaboration, software development best practices, and the ability to propose, reflect on, and present web applications in a scientific manner."
+        },
+        {
+          "label": "Text manipulation",
+          "content": "Learned to work with Linux/Unix for text manipulation, including editing, searching with regular expressions, creating glossaries and frequency lists, and using Unix pipes to connect commands like grep, cat, cut, and sed. The course covers electronic text processing, focusing on searching, replacing, sorting, and text analysis applications."
+        },
+        {
+          "label": "Annotation for Machine Learning",
+          "content": "Through hands-on experience, we learned how annotation improves machine learning in NLP and how to build high-quality annotated datasets. Core concepts were: dataset collection, annotating data, evaluating annotations and building the gold standard: a dataset with verified, correct answers. Trained ML models on  datasets we created ourselves, and evaluated the results against our own gold standard."
+        },
+        {
+          "label": "Project Text Analysis",
+          "content": "Introduced to processing large textual datasets using Python and the NLTK library. It covers language processing tasks, including tokenization, Part of Speech (POS)-tagging, Named Entity Recognition (NER), and sense-tagging, both theoretically and practically. Implemented these techniques, evaluated data annotation, and set up NLP projects from scratch using off-the-shelf tools. The course fostered teamwork skills and awareness of current challenges in text processing."
+        },
+        {
+          "label": "Digital Communication",
+          "content": "An introduction to computer-mediated communication (CMC), covering instant messaging, video chat, email, social media, and virtual reality. Gained basic knowledge and analytical skills to understand cognitive, linguistic, and social aspects of CMC. Ranging from its possibilities, limitations, and implications. How does different media influence interaction compared to face-to-face communication, exploring why certain media suit specific interactions better and how they address miscommunication. The course also examines language change, highlighting how CMC fosters new linguistic and communicative conventions."
+        }
+      ]
+    },
+    {
+      "title": "Second year",
+      "questions": [
+        {
+          "label": "Introduction to Neural Networks",
+          "content": "Gained a foundational understanding of neural networks (NNs), covering simple linear classifiers, feed-forward neural networks and recurrent NNs. Learned how these models work and the basic training techniques, such as stochastic gradient descent. Also gained practical experience implementing, training, and testing NNs using deep learning Python frameworks like Keras or PyTorch. The course highlights the conceptual differences between simple models and more advanced architectures like LSTMs, and teaches students to select appropriate NN models for text classification tasks. Additionally, students will evaluate the advantages and limitations of using deep learning compared to other machine learning methods in NLP."
+        },
+        {
+          "label": "Search Engines",
+          "content": "This module covers methods and techniques used in information systems, particularly for unstructured text, such as search engines and information retrieval systems. Topics include text preparation, indexing, boolean and vector models, ranked retrieval, evaluation of search systems, and the PageRank algorithm. Gained hands-on experience through Python programming exercises, focusing on optimizing the efficiency of these systems when working with large data collections. Additionally, learned about search engine models, their internal structures, and processes, as well as how to evaluate search engine performance."
+        },
+        {
+          "label": "Databases",
+          "content": "Database design, management and analysis. Learned to design and implement relational databases using the Entity-Relationship (E-R) Model and SQL for data manipulation and queries. Covered database design theory, like functional dependencies and normalization. Introduced to non-relational databases like NoSQL. "
+        },
+        {
+          "label": "Conversational Interfaces",
+          "content": "Development and evaluation of conversational interfaces, such as chatbots, spoken dialogue systems and talking robots. Explored state-of-the-art techniques in human-machine conversation, learned to handle typed or spoken input and how to manage a dialogue, generating appropriate responses. "
+        },
+        {
+          "label": "Database-driven webtechnology",
+          "content": "Developed an interactive server-side web application with a relational database back-end, using PHP and MySQL. Our project was creating a house-rent website, where accounts could be created as a user or landlord. Landlords were able to list houses/rooms, and users could like them and respond. The course covered security, privacy, performance, usability, best practices and version control. "
+        },
+        {
+          "label": "Logic programming",
+          "content": "Fun fact! Prolog played a crucial role in the International Space Station's spoken dialogue system, Clarissa, powering its dialogue management and semantic analysis to help astronauts navigate procedures hands-free in microgravity! The course emphasizes declarative programming, where instead of telling the computer what to do, we described a set of facts and rules from which the computer can derive new conclusions. Gained skills in basic terminology, data structures, unification, recursion and backtracking. "
+        },
+        {
+          "label": "Computational Grammar",
+          "content": "The course covers parsing techniques in Prolog, enabling students to build and evaluate parsers for context-free grammars (CFGs) and definite clause grammars (DCGs). Additionally, students will explore treebanks—structured linguistic datasets—understanding how they are created and used in NLP. The course combines linguistic and computational perspectives, addressing challenges like agreement and verb subcategorization within these grammar formalisms."
+        },
+        {
+          "label": "Social Media",
+          "content": "This course explores how social media platforms influence human communication, shaping informal, educational, and professional interactions. Students will learn to critically evaluate empirical claims about social media and analyze communication using current theories of social interaction and automated data analysis. Key topics include community formation, social network structures, information propagation, anonymity, trust, self-presentation, and emerging linguistic conventions. The course combines quantitative and qualitative approaches, introducing language technologies for automated social media analysis and examining how social science insights can inform social media design and evaluation."
+        },
+        {
+          "label": "Statistics",
+          "content": "This course covers **descriptive, inferential, and multivariable statistics**, including **t-tests, chi-square, ANOVA, regression models, and non-parametric tests**. Students will analyze data, evaluate scientific literature, and report results correctly using R."
+        }
+      ]
+    },
+    {
+      "title": "Third year",
+      "questions": [
+        {
+          "label": "Machine Learning Project",
+          "content": "This course explores **machine learning for text and image classification** through a hands-on group project tackling a real-world problem. Students will learn core techniques for **text classification, clustering, and image recognition**, as well as cutting-edge approaches in the field. They will also develop skills to **analyze, compare, and critically evaluate academic literature**, presenting their findings both orally and in writing."
+        },
+        {
+          "label": "Machine Translation",
+          "content": "This course introduces **machine translation (MT)**, focusing on the evolution from **rule-based and statistical methods** to modern **neural machine translation (NMT)**. Students will learn about key **NMT architectures** like **recurrent models with attention** and the **Transformer**, and gain hands-on experience using frameworks like **fairseq**. The course also covers **evaluation metrics** for MT systems, their societal impact, and prepares students to critically present and discuss MT research."
+        },
+        {
+          "label": "Ethical Aspects in Natural Language Processing",
+          "content": "This course addresses the **ethical challenges in language technology**, focusing on **bias, data privacy**, and the **implications of NLP research**. Students will learn to identify and address ethical issues both as developers and users, exploring topics like **model interpretability, debiasing**, and the **responsible use** of technology. The course also covers **sociodemographic factors** in language, the **dangers of third-party misuse**, and the **state-of-the-art ethical discussions** in the NLP community. Students will be equipped to reflect on and report ethical considerations in their work."
+        },
+        {
+          "label": "Language Technology",
+          "content": "This course explores practical applications of **language technology**, focusing on areas like **question-answering systems**, **syntactic analysis**, and **knowledge representation**. Students will learn to integrate **automatic parsers** into question-answer systems and work with **Linked Open Data (RDF)** and **SPARQL** for data querying. The course includes hands-on projects and implementations, covering various topics that may change each year, such as **spell correction, language-to-speech**, and **automatic language classification**."
+        }
+      ]
+    }
+  ]
+}
