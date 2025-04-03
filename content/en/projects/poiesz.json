@@ -1,8 +1,7 @@
 {
-    "name": "Poiesz Supermarkten webshop",
-    "image": "/projects/poiesz.webp",
-    "link": "https://webwinkel.poiesz-supermarkten.nl/",
-    "release": "2024",
-    "featured": true
-  }
-  
+  "name": "Poiesz Supermarkten",
+  "image": "/projects/poiesz.webp",
+  "link": "https://webwinkel.poiesz-supermarkten.nl/",
+  "release": "2024",
+  "featured": true
+}
