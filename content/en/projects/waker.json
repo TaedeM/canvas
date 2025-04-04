@@ -1,7 +1,7 @@
 {
   "name": "Waker Cyber Security",
   "image": "/projects/waker.png",
-  "link": "acc.waker.snakeware.net",
+  "link": "https://acc.waker.snakeware.net",
   "release": "2025",
-  "featured": true
+  "featured": false
 }
