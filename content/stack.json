@@ -44,6 +44,11 @@
       "name": "Figma",
       "link": "https://www.figma.com/",
       "icon": "custom:figma"
+    },
+    {
+      "name": "Teamcity",
+      "link": "https://www.jetbrains.com/teamcity/",
+      "icon": "custom:teamcity"
     }
   ]
 }
