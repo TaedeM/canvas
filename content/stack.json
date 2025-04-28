@@ -49,6 +49,11 @@
       "name": "Teamcity",
       "link": "https://www.jetbrains.com/teamcity/",
       "icon": "custom:teamcity"
+    },
+    {
+      "name": "Snakeware Cloud",
+      "link": "https://www.snakeware.cloud/",
+      "icon": "custom:cms"
     }
   ]
 }
