@@ -7,23 +7,23 @@
       "questions": [
         {
           "label": "Web Programming",
-          "content": "Developed interactive websites using PHP, JavaScript, HTML, and CSS. It covered jQuery, AJAX, JSON, and templating for efficient web development. Also worked with virtual Apache servers, FTP, and software development tools. Through weekly assignments and a group project, we applied theoretical knowledge to real-world problems. The course emphasized collaboration, software development best practices, and the ability to propose, reflect on, and present web applications in a scientific manner."
+          "content": "Interactieve website gemaakt met PHP, JavaScript, HTML en CSS. Dit vak ging voornamelijk over jQuery, AJAX, JSON en templating voor efficiënt web development. Ook gewerkt met virtuele Apache servers, FTP en software ontwikkelingstools. Met wekelijkse opdrachten en een groepsproject, hebben we theoretische kennis toegepast op praktijkgerichte problemen. Het vak legde de focus op samenwerking, best practices en het vermogen om webapplicaties op een wetenschappelijke manier te beschrijven, onderbouwen en presenteren."
         },
         {
           "label": "Text manipulation",
-          "content": "Learned to work with Linux/Unix for text manipulation, including editing, searching with regular expressions, creating glossaries and frequency lists, and using Unix pipes to connect commands like grep, cat, cut, and sed."
+          "content": "Geleerd om te werken met Linux/Unix voor tekstverwerking, waaronder het bewerken en doorzoeken van tekst met regular expressions, het maken van verklarende woordenlijsten en frequentielijsten, en het gebruik van Unix-pipes om commando's zoals grep, cat, cut en sed met elkaar te verbinden."
         },
         {
           "label": "Annotation for Machine Learning",
-          "content": "Through hands-on experience, we learned how annotation improves machine learning in Natural Language Processing (NLP) and how to build high-quality annotated datasets. Core concepts were: dataset collection, annotating data, evaluating annotations and building the gold standard: a dataset with verified, correct answers. Trained Machine Learning (ML) models on datasets we created ourselves, and evaluated the results against our own gold standard."
+          "content": "Door middel van praktijkervaring leerden we hoe annotatie Machine Learning (ML) verbetert binnen Natural Language Processing (NLP), en hoe je hoogwaardige geannoteerde datasets opbouwt. Kernonderwerpen waren: het verzamelen van datasets, het annoteren van data, het evalueren van annotaties en het opstellen van de gold standard -- een dataset met geverifieerde, correcte antwoorden. We trainden ML-modellen op zelf samengestelde datasets en evalueerden de resultaten aan de hand van onze eigen gold standard"
         },
         {
           "label": "Project Text Analysis",
-          "content": "Introduced to processing large textual datasets using Python and the NLTK library. It covers language processing tasks, including tokenization, Part of Speech (POS)-tagging, Named Entity Recognition (NER), and sense-tagging, both theoretically and practically. Implemented these techniques, evaluated data annotation, and set up NLP projects from scratch using off-the-shelf tools. The course fostered teamwork skills and awareness of current challenges in text processing."
+          "content": "Geïntroduceerd met het verwerken van grote tekstuele datasets met Python en de NLTK-library. Het vak behandelde taalverwerkingstaken zoals: tokenization, Part-of-Speech (POS)-tagging, Named Entity Recognition (NER) en sense-tagging, zowel theoretisch als praktisch. Deze technieken zelf geïmplementeerd, data-annotatie geëvalueerd en NLP-projecten vanaf nul opgezet met kant-en-klare tools. Er werrd ook gewerkt aan samenwerkingsvaardigheden en was er aandacht voor actuele uitdagingen binnen tekstverwerking."
         },
         {
           "label": "Digital Communication",
-          "content": "An introduction to computer-mediated communication (CMC), covering instant messaging, video chat, email, social media, and virtual reality. Gained basic knowledge and analytical skills to understand cognitive, linguistic, and social aspects of CMC. Ranging from its possibilities, limitations, and implications. How does different media influence interaction compared to face-to-face communication, exploring why certain media suit specific interactions better and how they address miscommunication. The course also examines language change, highlighting how CMC fosters new linguistic and communicative conventions."
+          "content": "Inleiding tot computer-gemedieerde communicatie (CMC), met aandacht voor instant messaging, videochat, e-mail, sociale media en virtual reality. Basiskennis en analytische vaardigheden opgedaan om cognitieve, linguïstische en sociale aspecten van CMC te begrijpen. Het vak behandelde de mogelijkheden, beperkingen en gevolgen van verschillende media, en hoe deze de interactie beïnvloeden in vergelijking met face-to-face communicatie. We onderzochten waarom bepaalde media geschikter zijn voor specifieke vormen van interactie en hoe ze miscommunicatie kunnen opvangen. Ook werd taalverandering besproken, met nadruk op hoe CMC nieuwe linguïstische en communicatieve conventies stimuleert."
         }
       ]
     },
@@ -32,39 +32,39 @@
       "questions": [
         {
           "label": "Introduction to Neural Networks",
-          "content": "Gained a foundational understanding of neural networks (NNs), covering simple linear classifiers, feed-forward neural networks and recurrent NNs. Learned how these models work and the basic training techniques, such as stochastic gradient descent. Also gained practical experience implementing, training, and testing NNs using deep learning Python frameworks like Keras or PyTorch. The course highlights the conceptual differences between simple models and more advanced architectures like LSTMs, and taught how to select appropriate NN models for text classification tasks. Additionally, evaluated the advantages and limitations of using deep learning compared to other machine learning methods in NLP."
+          "content": "Een basisbegrip ontwikkeld van neurale netwerken (NN’s), met aandacht voor eenvoudige lineaire classificatiemodellen, feedforward-netwerken en recurrent NN’s. Geleerd hoe deze modellen werken en hoe ze getraind worden met technieken zoals stochastic gradient descent. Ook praktische ervaring opgedaan met het implementeren, trainen en testen van NN's met behulp van deep learning-frameworks in Python, zoals Keras of PyTorch. Het vak belichtte de conceptuele verschillen tussen eenvoudige modellen en geavanceerdere architecturen zoals LSTMs, en leerde hoe je geschikte NN-modellen kiest voor tekstclassificatietaken. Daarnaast werd er gereflecteerd op de voordelen en beperkingen van deep learning ten opzichte van andere machine learning-methoden binnen NLP."
         },
         {
           "label": "Search Engines",
-          "content": "Covered methods and techniques used in information systems, particularly for unstructured text, such as search engines and information retrieval systems. Topics include text preparation, indexing, boolean and vector models, ranked retrieval, evaluation of search systems, and the PageRank algorithm. Gained hands-on experience through Python programming exercises, focusing on optimizing the efficiency of these systems when working with large data collections. Additionally, learned about search engine models, their internal structures, and processes, as well as how to evaluate search engine performance."
+          "content": "Behandelde methoden en technieken die worden gebruikt in informatiesystemen, met name voor ongestructureerde tekst zoals zoekmachines en information retrieval-systemen. Onderwerpen waren onder andere tekstvoorbewerking, indexering, booleaanse en vectorruimtemodellen, gerangschikte zoekresultaten, evaluatie van zoeksystemen en het PageRank-algoritme. Praktische ervaring opgedaan met Python-programmeeroefeningen, gericht op het optimaliseren van de efficiëntie van deze systemen bij het werken met grote datacollecties. Daarnaast inzicht gekregen in zoekmachinemodellen, hun interne structuur en processen, en hoe je de prestaties van zoekmachines kunt evalueren."
         },
         {
           "label": "Databases",
-          "content": "Database design, management and analysis. Learned to design and implement relational databases using the Entity-Relationship (E-R) Model and SQL for data manipulation and queries. Covered database design theory, like functional dependencies and normalization. Introduced to non-relational databases like NoSQL."
+          "content": "Ontwerp, beheer en analyse van databases. Geleerd om relationele databases te ontwerpen en implementeren met behulp van het Entity-Relationship (E-R) model en SQL voor datamanipulatie en query’s. Het vak behandelde ook theorieën over databaseontwerp, zoals functionele afhankelijkheden en normalisatie. Daarnaast een eerste kennismaking met niet-relationele databases zoals NoSQL."
         },
         {
           "label": "Conversational Interfaces",
-          "content": "Development and evaluation of conversational interfaces, such as chatbots, spoken dialogue systems and talking robots. Explored state-of-the-art techniques in human-machine conversation, learned to handle typed or spoken input and how to manage a dialogue, generating appropriate responses."
+          "content": "Ontwikkeling en evaluatie van conversationele interfaces, zoals chatbots, gesproken dialoogsysteem en sprekende robots. Verkenning van state-of-the-art technieken voor mens-machine-interactie, met aandacht voor het verwerken van getypte of gesproken input en het managen van dialogen, inclusief het genereren van passende reacties."
         },
         {
           "label": "Database-driven webtechnology",
-          "content": "Developed an interactive server-side web application with a relational database back-end, using PHP and MySQL. Our project was creating a house-rent website, where accounts could be created as a user or landlord. Landlords were able to list houses/rooms, and users could like them and respond. The course covered security, privacy, performance, usability, best practices and version control. "
+          "content": "Een interactieve server-side webapplicatie ontwikkeld met een relationele database-backend, gebruikmakend van PHP en MySQL. Het project bestond uit het bouwen van een huurwoningwebsite waarop gebruikers zich konden registreren als huurder of verhuurder. Verhuurders konden woningen of kamers aanbieden, en gebruikers konden deze liken en erop reageren. Het vak behandelde ook onderwerpen zoals beveiliging, privacy, prestaties, gebruiksvriendelijkheid, best practices en versiebeheer."
         },
         {
           "label": "Logic programming",
-          "content": "Fun fact! Prolog played a crucial role in the International Space Station's spoken dialogue system, Clarissa, powering its dialogue management and semantic analysis to help astronauts navigate procedures hands-free in microgravity! The course emphasizes declarative programming, where instead of telling the computer what to do, we described a set of facts and rules from which the computer can derive new conclusions. Gained skills in basic terminology, data structures, unification, recursion and backtracking. "
+          "content": "Leuke feit! Prolog speelde een cruciale rol in het gesproken dialoogsysteem van het Internationaal Ruimtestation, Clarissa, waarbij het de dialoogbeheer en semantische analyse aandreef om astronauten handsfree door procedures te helpen navigeren in microzwaartekracht! Het vak legt de nadruk op declaratieve programmering, waarbij we in plaats van de computer precies te zeggen wat hij moet doen, een set feiten en regels beschreven, waaruit de computer nieuwe conclusies kan afleiden. Vaardigheden opgedaan in basis terminologie, datastructuren, unificatie, recursie en backtracking."
         },
         {
           "label": "Computational Grammar",
-          "content": "The course covers parsing techniques in Prolog, enabling students to build and evaluate parsers for context-free grammars (CFGs) and definite clause grammars (DCGs). Additionally, students will explore treebanks—structured linguistic datasets—understanding how they are created and used in NLP. The course combines linguistic and computational perspectives, addressing challenges like agreement and verb subcategorization within these grammar formalisms."
+          "content": "Het vak behandelt parsingtechnieken in Prolog, waarmee studenten parsers kunnen bouwen en evalueren voor context-free grammars (CFG’s) en definite clause grammars (DCG’s). Daarnaast verkennen studenten treebanks—gestructureerde linguïstische datasets—en leren ze hoe deze worden gecreëerd en gebruikt binnen NLP. Het vak combineert linguïstische en computationele perspectieven, waarbij uitdagingen zoals overeenstemming en werkwoordspecificaties binnen deze grammaticale formalisme aan bod komen."
         },
         {
           "label": "Social Media",
-          "content": "This course explores how social media platforms influence human communication, shaping informal, educational, and professional interactions. Learned how to critically evaluate empirical claims about social media and analyze communication using current theories of social interaction and automated data analysis. Key topics include community formation, social network structures, information propagation, anonymity, trust, self-presentation, and emerging linguistic conventions. The course combines quantitative and qualitative approaches, introducing language technologies for automated social media analysis and examining how social science insights can inform social media design and evaluation."
+          "content": "Dit vak onderzoekt hoe sociale mediaplatforms de menselijke communicatie beïnvloeden en informele, educatieve en professionele interacties vormgeven. Geleerd hoe je empirische beweringen over sociale media kritisch kunt evalueren en communicatie kunt analyseren met behulp van actuele theorieën over sociale interactie en geautomatiseerde data-analyse. Belangrijke onderwerpen zijn onder andere gemeenschapsvorming, sociale netwerkstructuren, informatieverspreiding, anonimiteit, vertrouwen, zelfpresentatie en opkomende linguïstische conventies. Het vak combineert kwantitatieve en kwalitatieve benaderingen, introduceert taaltechnologieën voor geautomatiseerde sociale media-analyse en onderzoekt hoe inzichten uit de sociale wetenschappen kunnen bijdragen aan het ontwerp en de evaluatie van sociale media."
         },
         {
           "label": "Statistics",
-          "content": "This course covers descriptive, inferential, and multivariable statistics, including t-tests, chi-square, ANOVA, regression models, and non-parametric tests. Students will analyze data, evaluate scientific literature, and report results correctly using R."
+          "content": "Dit vak behandelt descriptieve, inferentiële en multivariabele statistiek, waaronder t-toetsen, chi-kwadraat, ANOVA, regressiemodellen en niet-parametrische toetsen. Studenten zullen data analyseren, wetenschappelijke literatuur evalueren en resultaten correct rapporteren met behulp van R."
         }
       ]
     },
@@ -73,19 +73,19 @@
       "questions": [
         {
           "label": "Machine Learning Project",
-          "content": "This course explored machine learning for text and image classification through a hands-on group project tackling a real-world problem. Learned core techniques for text classification, clustering, and image recognition, as well as cutting-edge approaches in the field. Also developped skills to analyze, compare, and critically evaluate academic literature."
+          "content": "Dit vak verkende machine learning voor tekst- en beeldclassificatie door middel van een praktische groepsopdracht die een real-world probleem aanpakte. Geleerd werden de kerntechnieken voor tekstclassificatie, clustering en beeldherkenning, evenals de nieuwste benaderingen op dit gebied. Ook werden vaardigheden ontwikkeld om academische literatuur te analyseren, te vergelijken en kritisch te evalueren."
         },
         {
           "label": "Machine Translation",
-          "content": "This course introduces machine translation (MT), focusing on the evolution from rule-based and statistical methods to modern neural machine translation (NMT). Learned about key NMT architectures like recurrent models with attention and the transformer model. The course also covered evaluation metrics for MT systems, their societal impact, and taught us how to critically present and discuss MT research."
+          "content": "Dit vak introduceert machinevertaling (MT), met de focus op de evolutie van op regels gebaseerde en statistische methoden naar moderne neurale machinevertaling (NMT). Geleerd over belangrijke NMT-architecturen zoals recurrente modellen met aandacht en het transformer-model. Het vak behandelde ook evaluatiemetrics voor MT-systemen, hun maatschappelijke impact en leerde ons hoe we MT-onderzoek kritisch kunnen presenteren en bespreken."
         },
         {
           "label": "Ethical Aspects in Natural Language Processing",
-          "content": "This course addresses the ethical challenges in language technology, focusing on bias, data privacy, and the implications of NLP research. Students will learn to identify and address ethical issues both as developers and users, exploring topics like model interpretability, debiasing and the responsible use of technology. The course also covers sociodemographic factors in language, the dangers of third-party misuse, and the ethical discussions in the NLP community."
+          "content": "Dit vak behandelt de ethische uitdagingen in taaltechnologie, met focus op bias, gegevensprivacy en de implicaties van NLP-onderzoek. Studenten leren ethische kwesties te identificeren en aan te pakken, zowel als ontwikkelaars als gebruikers, en verkennen onderwerpen zoals modelinterpretatie, debiasing en het verantwoord gebruik van technologie. Het vak behandelt ook sociodemografische factoren in taal, de gevaren van misbruik door derden en de ethische discussies binnen de NLP-gemeenschap."
         },
         {
           "label": "Language Technology",
-          "content": "This course explores practical applications of language technology, focusing on areas like question-answering systems, syntactic analysis, and knowledge representation. Students will learn to integrate automatic parsers into question-answer systems and work with Linked Open Data (RDF) and SPARQL for data querying. The course includes hands-on projects and implementations, covering various topics, such as spell correction, language-to-speech, and automatic language classification."
+          "content": "Dit vak verkent praktische toepassingen van taaltechnologie, met focus op gebieden zoals vraag-antwoord systemen, syntactische analyse en kennisrepresentatie. Studenten leren automatische parsers te integreren in vraag-antwoord systemen en werken met Linked Open Data (RDF) en SPARQL voor dataquery’s. Het vak omvat praktische projecten en implementaties, met onderwerpen zoals spellingscorrectie, tekst-naar-spraak en automatische taalclassificatie."
         }
       ]
     }
